@@ -1,5 +1,4 @@
 # python-pip - achlinux
-sudo pacman -S 
 pip install numpy
 pip install pandas
 pip install notebook
