@@ -8,6 +8,8 @@ pip install plotly
 pip install statistics
 pip install scikit-learn
 pip install category_encoders
+pip install scipy
+pip install statsmodels
 
 
 БОНУС. EDA одной строкой кода
