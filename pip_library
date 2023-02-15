@@ -11,6 +11,7 @@ pip install category_encoders
 pip install scipy
 pip install statsmodels
 pip install comet_ml
+pip install lightautoml
 
 
 
