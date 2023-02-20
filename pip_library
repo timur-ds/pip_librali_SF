@@ -25,3 +25,4 @@ pip install pandas-profiling && pip install sweetviz && pip install dtale
 pip install numpy && pip install pandas && pip install notebook && pip install matplotlib && pip install seaborn && pip install plotly && pip install statistics && pip install scikit-learn && pip install category_encoders && pip install scipy && pip install statsmodels && pip install comet_ml && pip install lightautoml
 
 
+=)
