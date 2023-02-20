@@ -1,4 +1,6 @@
-# paru python-pip - achlinux
+sudo pacman -S python-pip - AUR Linux (Arch Linux, Manjaro Linux, ArcoLinux ....)
+sudo apt -y install python3-pip - advanced packaging tool (Ubuntu, Debian, Mint....)
+
 pip install numpy
 pip install pandas
 pip install notebook
@@ -12,8 +14,6 @@ pip install scipy
 pip install statsmodels
 pip install comet_ml
 pip install lightautoml
-
-
 
 БОНУС. EDA одной строкой кода
 pip install pandas-profiling
