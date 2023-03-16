@@ -37,4 +37,9 @@ pip install -U ydata-profiling && pip install ipywidgets && pip install sweetviz
 
 
 
+pip install pandas_profiling
+
+
+pip install pandas_profiling && 
+
 =)
